@@ -45,26 +45,6 @@ Building intelligent systems using RAG, LLMs, Agents, ML and modern backend tech
 
 ---
 
-## 🚀 Featured Project — PragyaAI
-
-**PragyaAI** is an enterprise-style AI assistant designed to explore modern LLM and RAG architectures.
-
-### Key Features
-
-- Retrieval-Augmented Generation (RAG)
-- Hybrid Search using BM25 + Vector Search
-- LangChain & LangGraph
-- ChromaDB Vector Database
-- Gemini & Ollama LLM Providers
-- Model Context Protocol (MCP)
-- AI Tool Calling
-- Conversation Memory
-- Document Upload & Search
-- SSE Streaming Responses
-- Authentication
-- FastAPI Backend
-- React Frontend
-
 ### Tech Stack
 
 `Python` `FastAPI` `React` `LangChain` `LangGraph` `ChromaDB` `Gemini` `Ollama` `MCP` `BM25` `RAG`
@@ -92,20 +72,6 @@ Building intelligent systems using RAG, LLMs, Agents, ML and modern backend tech
 <p align="center">
 
 `LLMs` • `RAG` • `LangChain` • `LangGraph` • `Embeddings` • `Vector Databases` • `ChromaDB` • `Gemini` • `Ollama` • `MCP` • `AI Agents`
-
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Abhay1112Kumar&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay1112Kumar&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
