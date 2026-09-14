@@ -40,10 +40,6 @@ Building intelligent systems using RAG, LLMs, Agents, ML and modern backend tech
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:ab1112kumar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
 <a href="https://github.com/Abhay1112Kumar">
 <img src="https://img.shields.io/badge/GitHub-Abhay1112Kumar-black?style=for-the-badge&logo=github"/>
 </a>
