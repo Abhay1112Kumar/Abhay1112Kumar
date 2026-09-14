@@ -85,15 +85,6 @@ Building intelligent systems using RAG, LLMs, Agents, ML and modern backend tech
 
 </p>
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay1112Kumar&theme=github-compact&hide_border=true"/>
-
-</p>
 
 ---
 
