@@ -33,18 +33,6 @@ Building intelligent systems using RAG, LLMs, Agents, ML and modern backend tech
 </p>
 ---
 
-## 👨‍💻 About Me
-
-- 💻 Software Engineer with a strong interest in **AI/ML and Backend Engineering**
-- 🎓 B.Tech in Computer Science & Engineering
-- 🤖 Exploring **LLMs, RAG, AI Agents and ML Systems**
-- 🔭 Currently building **PragyaAI**
-- 🌱 Learning **PyTorch, Transformers, System Design and ML Infrastructure**
-- 🧠 Interested in AI research and intelligent software systems
-- 💬 Ask me about **C++, Python, FastAPI, RAG, LLMs, Backend Development and DSA**
-
----
-
 ### Tech Stack
 
 `Python` `FastAPI` `React` `LangChain` `LangGraph` `ChromaDB` `Gemini` `Ollama` `MCP` `BM25` `RAG`
@@ -58,46 +46,6 @@ Building intelligent systems using RAG, LLMs, Agents, ML and modern backend tech
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,fastapi,django,postgres,mongodb,mysql,git,github,docker,linux,aws,vscode" />
 
 </p>
-
----
-
-## 🤖 AI / Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-</p>
-
-<p align="center">
-
-`LLMs` • `RAG` • `LangChain` • `LangGraph` • `Embeddings` • `Vector Databases` • `ChromaDB` • `Gemini` • `Ollama` • `MCP` • `AI Agents`
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Abhay1112Kumar&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
-
----
-
-## 🎯 Currently Learning
-
-- Advanced PostgreSQL & DBMS
-- Data Structures & Algorithms
-- System Design
-- PyTorch
-- Transformers & Attention
-- Model Serving & Inference
-- Docker & Cloud Infrastructure
-- AI Agents & MCP
 
 ---
 
