@@ -31,7 +31,7 @@ Building intelligent systems using RAG, LLMs, Agents, ML and modern backend tech
     />
   </picture>
 </p>
----
+
 ## 🤝 Connect With Me
 
 <p align="center">
