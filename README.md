@@ -13,6 +13,26 @@ Building intelligent systems using RAG, LLMs, Agents, ML and modern backend tech
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Abhay1112Kumar/Abhay1112Kumar/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Abhay1112Kumar/Abhay1112Kumar/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Abhay1112Kumar/Abhay1112Kumar/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
