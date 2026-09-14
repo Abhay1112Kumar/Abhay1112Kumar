@@ -32,23 +32,6 @@ Building intelligent systems using RAG, LLMs, Agents, ML and modern backend tech
   </picture>
 </p>
 ---
-
-### Tech Stack
-
-`Python` `FastAPI` `React` `LangChain` `LangGraph` `ChromaDB` `Gemini` `Ollama` `MCP` `BM25` `RAG`
-
----
-
-## 🛠️ Languages & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,fastapi,django,postgres,mongodb,mysql,git,github,docker,linux,aws,vscode" />
-
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
